@@ -1,0 +1,37 @@
+/* line 5, /Users/michael/test_apps/calreact/app/assets/stylesheets/appointments.scss */
+body {
+  width: 500px;
+  margin: auto;
+  font-family: Arial, sans-serif;
+  font-size: 14px;
+  line-height: 1.5;
+  padding-bottom: 200px;
+}
+
+/* line 14, /Users/michael/test_apps/calreact/app/assets/stylesheets/appointments.scss */
+.submit-button {
+  background: #CC0000;
+  color: #ffffff;
+  cursor: pointer;
+  border: 0;
+  box-shadow: none;
+  border-radius: 0px;
+  font-size: 20px;
+  padding: 10px;
+}
+/*
+ * This is a manifest file that'll be compiled into application.css, which will include all the files
+ * listed below.
+ *
+ * Any CSS and SCSS file within this directory, lib/assets/stylesheets, vendor/assets/stylesheets,
+ * or any plugin's vendor/assets/stylesheets directory can be referenced here using a relative path.
+ *
+ * You're free to add application-wide styles to this file and they'll appear at the bottom of the
+ * compiled file so the styles you add here take precedence over styles defined in any other CSS/SCSS
+ * files in this directory. Styles in this file should be added after the last require_* statement.
+ * It is generally better to create a new file per style scope.
+ *
+
+
+ */
+
